@@ -1,0 +1,27 @@
+Position: Backend Engineer (Python)
+
+About Us
+We build order management software used by mid-sized retailers across Asia.
+
+What You Will Do
+- Design, build and maintain REST APIs used by our web and mobile clients.
+- Own database schema design and query performance.
+- Participate in code review and improve automated test coverage.
+- Work with the platform team on deployment and observability.
+
+Requirements
+- 2+ years of professional experience in backend development
+- Strong command of Python
+- Hands-on experience with Django or Flask
+- Proficiency in SQL and PostgreSQL
+- Experience designing REST API endpoints
+- Familiarity with Git and code review workflows
+
+Nice to Have
+- Docker and container-based deployment
+- AWS or another major cloud provider
+- Experience with Microservices architecture
+- Unit Testing with pytest
+
+Education
+Bachelor's degree in Computer Science, Information Technology or equivalent experience.

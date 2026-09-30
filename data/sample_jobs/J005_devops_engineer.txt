@@ -1,0 +1,27 @@
+Position: DevOps Engineer
+
+About the Role
+We are looking for a DevOps engineer to own our container platform and deployment
+pipelines as we grow from 20 to 80 services.
+
+What You Will Do
+- Operate and scale Kubernetes clusters running production workloads.
+- Build and maintain CI/CD pipelines used by every engineering team.
+- Manage cloud infrastructure as code and keep environments reproducible.
+- Improve monitoring, alerting and incident response practices.
+
+Must Have
+- 3+ years of experience in a DevOps or SRE role
+- Strong experience with AWS
+- Hands-on experience with Docker and Kubernetes
+- Proficiency in Linux administration
+- Experience building CI/CD pipelines
+
+Preferred Skills
+- Terraform or another Infrastructure as Code tool
+- Jenkins or GitHub Actions
+- Monitoring with Prometheus and Grafana
+- Scripting in Python or Bash is a plus
+
+Education
+Bachelor's degree in Computer Science, Engineering or a related field.

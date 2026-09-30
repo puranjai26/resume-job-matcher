@@ -1,0 +1,29 @@
+PRIYA SHARMA
+Gurugram, India | priya.sharma@example.com
+
+SUMMARY
+Frontend engineer with 2 years of experience building responsive web interfaces.
+Focused on accessible, fast React applications and a maintainable component library.
+
+EXPERIENCE
+Frontend Developer, Vantage Digital (Apr 2025 - Present)
+- Built and shipped 20+ screens of a customer portal in React and TypeScript.
+- Cut the initial bundle size by 38% through code splitting and Webpack configuration.
+- Implemented a shared component library with Tailwind CSS, adopted by three teams.
+- Collaborated with designers in Figma and reviewed pull requests daily.
+
+Web Development Intern, Nova Labs (Sep 2024 - Mar 2025)
+- Converted design mockups into responsive HTML and CSS pages.
+- Wrote small Node.js scripts to automate asset generation.
+
+SKILLS
+JavaScript, TypeScript, React, HTML, CSS, Tailwind CSS, Bootstrap, Node.js,
+Git, GitHub, Figma, Responsive Design, Jest, REST API integration, Agile
+
+EDUCATION
+B.Sc in Computer Science
+Northgate University, 2019 - 2022
+
+PROJECTS
+Personal Portfolio and Blog
+- Static site built with Next.js and deployed on a free hosting tier.

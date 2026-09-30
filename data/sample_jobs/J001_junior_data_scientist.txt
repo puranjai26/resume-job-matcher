@@ -1,0 +1,29 @@
+Job Title: Junior Data Scientist
+
+About the Role
+We are hiring a junior data scientist to join our analytics team. You will work with
+product and marketing stakeholders to build models that inform day-to-day decisions.
+
+Responsibilities
+- Build, evaluate and document predictive models for churn and demand forecasting.
+- Write SQL to extract and prepare datasets from our data warehouse.
+- Communicate results clearly to non-technical stakeholders.
+- Support the deployment of models into the production scoring service.
+
+Required Skills
+- Strong programming skills in Python
+- Proficiency in SQL
+- Solid understanding of Machine Learning fundamentals
+- Hands-on experience with pandas and scikit-learn
+- Working knowledge of Statistics and hypothesis testing
+
+Preferred Skills
+- Exposure to TensorFlow or PyTorch is a plus
+- Familiarity with Natural Language Processing
+- Experience with Data Visualization tools
+
+Experience
+0-2 years of experience. Freshers with strong project work are welcome to apply.
+
+Education
+Bachelor's degree in Computer Science, Statistics, or a related field.

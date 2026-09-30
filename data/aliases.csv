@@ -1,0 +1,224 @@
+alias,canonical
+.net,ASP.NET
+a-b testing,A/B Testing
+ab testing,A/B Testing
+ab tests,A/B Testing
+advanced excel,Excel
+agile methodologies,Agile
+agile methodology,Agile
+ai,Machine Learning
+airflow,Apache Airflow
+amazon ec2,EC2
+amazon s3,S3
+amazon web services,AWS
+android,Android Development
+angular.js,Angular
+angularjs,Angular
+ann,Neural Networks
+api design,REST API
+api development,REST API
+artificial intelligence,Machine Learning
+asp dot net,ASP.NET
+automated testing,Test Automation
+aws cloud,AWS
+aws redshift,Redshift
+aws sagemaker,SageMaker
+azure cloud,Azure
+ba,Business Analysis
+bash scripting,Bash
+beautifulsoup,Web Scraping
+c plus plus,C++
+c sharp,C#
+ci cd,CI/CD
+cicd,CI/CD
+cnn,Convolutional Neural Networks
+cnns,Convolutional Neural Networks
+colab,Jupyter Notebook
+communication skills,Communication
+containerization,Docker
+continuous delivery,CI/CD
+continuous deployment,CI/CD
+continuous integration,CI/CD
+cpp,C++
+csharp,C#
+css3,CSS
+cv,Computer Vision
+cv2,OpenCV
+cyber security,Cybersecurity
+data pipeline,ETL
+data pipelines,ETL
+data structures and algorithms,Data Structures
+data viz,Data Visualization
+data warehouse,Data Warehousing
+dataviz,Data Visualization
+dbms,Database Design
+deep-learning,Deep Learning
+dl,Deep Learning
+docker containers,Docker
+dotnet,ASP.NET
+ds,Data Structures
+dsa,Data Structures
+ecmascript,JavaScript
+eda,Exploratory Data Analysis
+elastic search,Elasticsearch
+elt,ETL
+er diagram,Data Modeling
+es,Elasticsearch
+express,Express.js
+expressjs,Express.js
+extract transform load,ETL
+forecasting models,Forecasting
+ga,Google Analytics
+gcloud,GCP
+gcp bigquery,BigQuery
+genai,Large Language Models
+generative ai,Large Language Models
+gh actions,GitHub Actions
+git version control,Git
+golang,Go
+google cloud,GCP
+google cloud platform,GCP
+google colab,Jupyter Notebook
+hld,System Design
+html5,HTML
+hugging face transformers,Transformers
+huggingface,Hugging Face
+iac,Infrastructure as Code
+iam,Identity and Access Management
+info sec,Cybersecurity
+information security,Cybersecurity
+infosec,Cybersecurity
+intellij,IntelliJ IDEA
+ios,iOS Development
+js,JavaScript
+jupyter,Jupyter Notebook
+jupyter notebooks,Jupyter Notebook
+jwt,Authentication
+k8s,Kubernetes
+kafka,Apache Kafka
+kube,Kubernetes
+lambda functions,AWS Lambda
+linux administration,Linux
+lld,System Design
+llm,Large Language Models
+llms,Large Language Models
+lstm,Recurrent Neural Networks
+machine-learning,Machine Learning
+matplot lib,Matplotlib
+micro services,Microservices
+microservice,Microservices
+microsoft azure,Azure
+microsoft excel,Excel
+ml,Machine Learning
+ml ops,MLOps
+model serving,Model Deployment
+mongo,MongoDB
+mongo db,MongoDB
+ms excel,Excel
+ms sql,Microsoft SQL Server
+mssql,Microsoft SQL Server
+natural language understanding,Natural Language Processing
+ner,Named Entity Recognition
+nest.js,Node.js
+neural network,Neural Networks
+nextjs,Next.js
+nlp,Natural Language Processing
+no sql,MongoDB
+node,Node.js
+node js,Node.js
+nodejs,Node.js
+nosql,MongoDB
+np,NumPy
+numerical python,NumPy
+object-oriented programming,Object Oriented Programming
+objective c,Objective-C
+oop,Object Oriented Programming
+oops,Object Oriented Programming
+open cv,OpenCV
+oracle,Oracle Database
+pd,pandas
+pen testing,Penetration Testing
+pentesting,Penetration Testing
+plsql,Oracle Database
+postgre sql,PostgreSQL
+postgres,PostgreSQL
+power-bi,Power BI
+powerbi,Power BI
+problem-solving,Problem Solving
+psql,PostgreSQL
+py test,pytest
+pyspark,Apache Spark
+qa automation,Test Automation
+rails,Ruby on Rails
+rdbms,Database Design
+react js,React
+react-native,React Native
+react.js,React
+reactjs,React
+recommender system,Recommendation Systems
+recommender systems,Recommendation Systems
+requirements gathering,Requirement Gathering
+rest,REST API
+rest apis,REST API
+rest services,REST API
+restful,REST API
+restful api,REST API
+restful apis,REST API
+restful services,REST API
+rl,Reinforcement Learning
+rnn,Recurrent Neural Networks
+sbert,Sentence Transformers
+sci-kit learn,scikit-learn
+scikit learn,scikit-learn
+scrapy,Web Scraping
+scrum master,Scrum
+scss,SASS
+sea born,Seaborn
+sentence bert,Sentence Transformers
+sentence-transformers,Sentence Transformers
+serverless architecture,Serverless
+shell,Shell Scripting
+shell script,Shell Scripting
+sklearn,scikit-learn
+source control,Git
+spark,Apache Spark
+spreadsheets,Excel
+spring,Spring Boot
+springboot,Spring Boot
+sql server,Microsoft SQL Server
+sso,Authentication
+stakeholder communication,Stakeholder Management
+statistical analysis,Statistics
+stats,Statistics
+streamlit cloud,Streamlit
+t-sql,Microsoft SQL Server
+tailwind,Tailwind CSS
+tdd,Test Driven Development
+team player,Teamwork
+team work,Teamwork
+tensor flow,TensorFlow
+term frequency inverse document frequency,TF-IDF
+text analytics,Natural Language Processing
+text mining,Natural Language Processing
+tf,TensorFlow
+tf idf,TF-IDF
+tfidf,TF-IDF
+time series,Time Series Analysis
+torch,PyTorch
+ts,TypeScript
+unit tests,Unit Testing
+unix shell,Unix
+vapt,Penetration Testing
+vb,VBA
+verbal communication,Communication
+version control,Git
+visual basic,VBA
+visual studio code,VS Code
+viz,Data Visualization
+vscode,VS Code
+vue,Vue.js
+vuejs,Vue.js
+web api,REST API
+web apis,REST API
+webscraping,Web Scraping
+written communication,Communication

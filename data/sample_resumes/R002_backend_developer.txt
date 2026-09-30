@@ -1,0 +1,35 @@
+RAHUL MENON
+Pune, India | rahul.menon@example.com
+
+PROFESSIONAL SUMMARY
+Backend developer with 3 years of experience building and maintaining REST APIs and
+data services for e-commerce platforms. Comfortable owning a service end to end,
+from database schema to deployment.
+
+WORK EXPERIENCE
+Software Engineer, Craftline Commerce (Mar 2025 - Present)
+- Designed and shipped REST APIs in Django serving 40,000 daily active users.
+- Migrated a monolithic checkout module into three microservices, cutting p95 latency
+  from 820 ms to 310 ms.
+- Modelled and optimised PostgreSQL schemas; reduced a reporting query from 9s to 400ms
+  through indexing and query optimization.
+- Containerised services with Docker and deployed them to AWS ECS.
+- Added unit testing with pytest, raising service coverage from 34% to 79%.
+
+Junior Developer, Bluepeak Software (Sep 2023 - Feb 2025)
+- Maintained Flask services and internal tools.
+- Wrote SQL migrations and supported the on-call rotation.
+
+TECHNICAL SKILLS
+Languages: Python, SQL, JavaScript
+Frameworks: Django, Flask, FastAPI
+Databases: PostgreSQL, Redis, MongoDB
+Cloud and Tooling: AWS, Docker, Git, GitHub Actions, Linux, Postman
+Practices: REST API design, Microservices, Unit Testing, Code Review, Agile
+
+EDUCATION
+B.E. in Information Technology
+Deccan College of Engineering, 2017 - 2021
+
+CERTIFICATIONS
+- AWS Certified Developer - Associate, 2023

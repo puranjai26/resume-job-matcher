@@ -1,0 +1,30 @@
+Job Title: Frontend Engineer
+
+Role Overview
+Join a small product team building the customer-facing dashboard for our SaaS platform.
+You will own features end to end, from design review to production release.
+
+Responsibilities
+- Build responsive, accessible interfaces in React.
+- Translate Figma designs into reusable components.
+- Improve page performance and Core Web Vitals.
+- Integrate with REST API endpoints provided by the backend team.
+
+Required Skills
+- Strong knowledge of JavaScript
+- Proficiency in React
+- Expertise in HTML and CSS
+- Understanding of Responsive Design principles
+- Comfortable with Git
+
+Preferred Qualifications
+- TypeScript experience is a plus
+- Familiarity with Next.js
+- Exposure to Tailwind CSS
+- Bonus points for testing experience with Cypress
+
+Experience
+Minimum 1 year of experience building production web applications.
+
+Education
+Bachelor's degree in any discipline. Strong portfolios are considered.

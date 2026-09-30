@@ -1,0 +1,41 @@
+ANANYA IYER
+Bengaluru, India | ananya.iyer@example.com | github.com/example-ananya
+
+CAREER OBJECTIVE
+Final-year Computer Science student seeking an entry-level data science role where I
+can apply machine learning and statistical analysis to real business problems.
+
+EDUCATION
+B.Tech in Computer Science and Engineering
+Sunrise Institute of Technology, 2021 - 2025
+CGPA: 8.6/10
+
+TECHNICAL SKILLS
+Programming: Python, SQL, R
+Libraries: pandas, NumPy, scikit-learn, Matplotlib, Seaborn, TensorFlow
+Machine Learning: Supervised Learning, Unsupervised Learning, Regression, Classification, Clustering
+Other: Jupyter Notebook, Git, Excel, Statistics, Data Visualization
+
+EXPERIENCE
+Data Science Intern, Nimbus Analytics (Jun 2024 - Dec 2024)
+- Built a customer churn prediction model in Python using scikit-learn, improving
+  recall on the minority class from 0.51 to 0.68 through feature engineering.
+- Wrote SQL queries against a PostgreSQL warehouse to assemble the training dataset.
+- Presented weekly findings to the analytics team using Matplotlib dashboards.
+
+PROJECTS
+Movie Review Sentiment Classifier
+- Trained a text classification model on 50,000 reviews using TF-IDF features and
+  logistic regression; reached 88% accuracy on the held-out test set.
+- Applied text preprocessing including tokenization, stop-word removal and lemmatization.
+
+Retail Sales Forecasting
+- Used time series analysis to forecast weekly demand for 40 store locations.
+- Compared baseline moving-average forecasts against a gradient boosting model.
+
+CERTIFICATIONS
+- Machine Learning Specialization, online course provider, 2024
+- SQL for Data Analysis, online course provider, 2023
+
+ACHIEVEMENTS
+- Runner-up, inter-college data analytics hackathon, 2024

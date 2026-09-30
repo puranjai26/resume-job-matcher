@@ -1,0 +1,253 @@
+skill,category,match_mode
+Business Analysis,Business Analytics,default
+Dashboarding,Business Analytics,default
+Excel,Business Analytics,default
+Financial Modeling,Business Analytics,default
+Forecasting,Business Analytics,default
+Google Analytics,Business Analytics,default
+KPI Reporting,Business Analytics,default
+Looker,Business Analytics,default
+Market Research,Business Analytics,default
+Power BI,Business Analytics,default
+Product Management,Business Analytics,default
+Requirement Gathering,Business Analytics,default
+Stakeholder Management,Business Analytics,default
+Tableau,Business Analytics,default
+AWS,Cloud,default
+AWS Lambda,Cloud,default
+Azure,Cloud,default
+Cloud Architecture,Cloud,default
+Cloud Security,Cloud,default
+CloudFormation,Cloud,default
+DigitalOcean,Cloud,default
+EC2,Cloud,default
+GCP,Cloud,default
+Heroku,Cloud,default
+S3,Cloud,default
+SageMaker,Cloud,default
+Serverless,Cloud,default
+Authentication,Cybersecurity,default
+Burp Suite,Cybersecurity,default
+Cryptography,Cybersecurity,default
+Cybersecurity,Cybersecurity,default
+Ethical Hacking,Cybersecurity,default
+Firewalls,Cybersecurity,default
+Identity and Access Management,Cybersecurity,default
+Incident Response,Cybersecurity,default
+Network Security,Cybersecurity,default
+OAuth,Cybersecurity,default
+OWASP,Cybersecurity,default
+Penetration Testing,Cybersecurity,default
+SIEM,Cybersecurity,default
+Vulnerability Assessment,Cybersecurity,default
+Wireshark,Cybersecurity,default
+A/B Testing,Data Science,default
+Data Analysis,Data Science,default
+Data Cleaning,Data Science,default
+Data Storytelling,Data Science,default
+Data Visualization,Data Science,default
+Exploratory Data Analysis,Data Science,default
+Feature Engineering,Data Science,default
+Hypothesis Testing,Data Science,default
+Jupyter Notebook,Data Science,default
+Linear Algebra,Data Science,default
+Matplotlib,Data Science,default
+NumPy,Data Science,default
+pandas,Data Science,default
+Plotly,Data Science,default
+Predictive Modeling,Data Science,default
+Probability,Data Science,default
+SAS,Data Science,strict
+SciPy,Data Science,default
+Seaborn,Data Science,default
+SPSS,Data Science,default
+Statistical Modeling,Data Science,default
+Statistics,Data Science,default
+Time Series Analysis,Data Science,default
+Apache Airflow,Databases,default
+Apache Kafka,Databases,default
+Apache Spark,Databases,default
+BigQuery,Databases,default
+Cassandra,Databases,default
+Data Modeling,Databases,default
+Data Warehousing,Databases,default
+Database Design,Databases,default
+dbt,Databases,default
+DynamoDB,Databases,default
+Elasticsearch,Databases,default
+ETL,Databases,default
+Firebase,Databases,default
+Hadoop,Databases,default
+Microsoft SQL Server,Databases,default
+MongoDB,Databases,default
+MySQL,Databases,default
+Neo4j,Databases,default
+Oracle Database,Databases,default
+PostgreSQL,Databases,default
+Query Optimization,Databases,default
+Redis,Databases,default
+Redshift,Databases,default
+Snowflake,Databases,default
+SQL,Databases,default
+SQLite,Databases,default
+Stored Procedures,Databases,default
+Ansible,DevOps,default
+Apache Tomcat,DevOps,default
+CI/CD,DevOps,default
+Docker,DevOps,default
+GitHub Actions,DevOps,default
+GitLab CI,DevOps,default
+Grafana,DevOps,default
+Infrastructure as Code,DevOps,default
+Jenkins,DevOps,default
+Kubernetes,DevOps,default
+Linux,DevOps,default
+Load Balancing,DevOps,default
+Monitoring,DevOps,default
+Nginx,DevOps,default
+Prometheus,DevOps,default
+Terraform,DevOps,default
+Unix,DevOps,default
+Classification,Machine Learning,default
+Clustering,Machine Learning,default
+Computer Vision,Machine Learning,default
+Convolutional Neural Networks,Machine Learning,default
+Cosine Similarity,Machine Learning,default
+Deep Learning,Machine Learning,default
+Hugging Face,Machine Learning,default
+Keras,Machine Learning,default
+Large Language Models,Machine Learning,default
+LightGBM,Machine Learning,default
+Machine Learning,Machine Learning,default
+MLflow,Machine Learning,default
+MLOps,Machine Learning,default
+Model Deployment,Machine Learning,default
+Named Entity Recognition,Machine Learning,default
+Natural Language Processing,Machine Learning,default
+Neural Networks,Machine Learning,default
+NLTK,Machine Learning,default
+OpenCV,Machine Learning,default
+Prompt Engineering,Machine Learning,default
+PyTorch,Machine Learning,default
+Recommendation Systems,Machine Learning,default
+Recurrent Neural Networks,Machine Learning,default
+Regression,Machine Learning,default
+Reinforcement Learning,Machine Learning,default
+scikit-learn,Machine Learning,default
+Sentence Transformers,Machine Learning,default
+Sentiment Analysis,Machine Learning,default
+spaCy,Machine Learning,default
+Supervised Learning,Machine Learning,default
+TensorFlow,Machine Learning,default
+Text Classification,Machine Learning,default
+TF-IDF,Machine Learning,default
+Topic Modeling,Machine Learning,default
+Transformers,Machine Learning,default
+Unsupervised Learning,Machine Learning,default
+Word Embeddings,Machine Learning,default
+XGBoost,Machine Learning,default
+Android Development,Mobile Development,default
+Android Studio,Mobile Development,default
+Flutter,Mobile Development,default
+iOS Development,Mobile Development,default
+Mobile UI Design,Mobile Development,default
+React Native,Mobile Development,default
+Xcode,Mobile Development,default
+Assembly,Programming,default
+Bash,Programming,default
+C,Programming,strict
+C#,Programming,default
+C++,Programming,default
+Dart,Programming,default
+Go,Programming,strict
+Groovy,Programming,default
+Java,Programming,default
+JavaScript,Programming,default
+Julia,Programming,default
+Kotlin,Programming,default
+MATLAB,Programming,default
+Objective-C,Programming,default
+Perl,Programming,default
+PHP,Programming,default
+PowerShell,Programming,default
+Python,Programming,default
+R,Programming,strict
+Ruby,Programming,default
+Rust,Programming,default
+Scala,Programming,default
+Shell Scripting,Programming,default
+Solidity,Programming,default
+Swift,Programming,default
+TypeScript,Programming,default
+VBA,Programming,default
+Communication,Soft Skills,default
+Critical Thinking,Soft Skills,default
+Leadership,Soft Skills,default
+Presentation Skills,Soft Skills,default
+Problem Solving,Soft Skills,default
+Teamwork,Soft Skills,default
+Time Management,Soft Skills,default
+Cypress,Testing,default
+Integration Testing,Testing,default
+JMeter,Testing,default
+JUnit,Testing,default
+Manual Testing,Testing,default
+Performance Testing,Testing,default
+Postman,Testing,default
+pytest,Testing,default
+Regression Testing,Testing,default
+Selenium,Testing,default
+Test Automation,Testing,default
+Test Driven Development,Testing,default
+Unit Testing,Testing,default
+Agile,Tools,default
+Algorithms,Tools,default
+Bitbucket,Tools,default
+Code Review,Tools,default
+Confluence,Tools,default
+Data Structures,Tools,default
+Design Patterns,Tools,default
+Figma,Tools,default
+Git,Tools,default
+GitHub,Tools,default
+GitLab,Tools,default
+IntelliJ IDEA,Tools,default
+Jira,Tools,default
+Kanban,Tools,default
+Notion,Tools,default
+Object Oriented Programming,Tools,default
+Scrum,Tools,default
+Slack,Tools,default
+System Design,Tools,default
+Technical Documentation,Tools,default
+Trello,Tools,default
+VS Code,Tools,default
+Angular,Web Development,default
+ASP.NET,Web Development,default
+Bootstrap,Web Development,default
+CSS,Web Development,default
+Django,Web Development,default
+Express.js,Web Development,default
+FastAPI,Web Development,default
+Flask,Web Development,default
+GraphQL,Web Development,default
+gRPC,Web Development,default
+HTML,Web Development,default
+jQuery,Web Development,default
+Laravel,Web Development,default
+Microservices,Web Development,default
+Next.js,Web Development,default
+Node.js,Web Development,default
+React,Web Development,default
+Responsive Design,Web Development,default
+REST API,Web Development,default
+Ruby on Rails,Web Development,default
+SASS,Web Development,default
+Spring Boot,Web Development,default
+Streamlit,Web Development,default
+Svelte,Web Development,default
+Tailwind CSS,Web Development,default
+Vue.js,Web Development,default
+Web Scraping,Web Development,default
+Webpack,Web Development,default
+WebSockets,Web Development,default

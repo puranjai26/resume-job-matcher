@@ -1,0 +1,31 @@
+SANDEEP RAO
+Hyderabad, India | sandeep.rao@example.com
+
+SUMMARY
+DevOps engineer with 4 years of experience running containerised workloads on AWS and
+building CI/CD pipelines that development teams actually enjoy using.
+
+EXPERIENCE
+DevOps Engineer, Halcyon Systems (Sep 2023 - Present)
+- Operate 60+ microservices on Kubernetes across three AWS regions.
+- Wrote Terraform modules covering the entire staging environment; environment creation
+  dropped from two days to 25 minutes.
+- Built CI/CD pipelines in Jenkins and GitHub Actions with automated rollback.
+- Set up monitoring and alerting with Prometheus and Grafana, cutting mean time to
+  detection from 22 minutes to 4 minutes.
+
+Systems Engineer, Orbit Hosting (Sep 2022 - Aug 2023)
+- Administered Linux servers and Nginx load balancers.
+- Automated backup and patching routines with Bash and Ansible.
+
+SKILLS
+AWS, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, CI/CD, Linux, Bash,
+Ansible, Nginx, Prometheus, Grafana, Git, Python, Infrastructure as Code, Monitoring
+
+EDUCATION
+B.Tech in Electronics and Communication Engineering
+Charminar Institute of Technology, 2016 - 2020
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator, 2023
+- AWS Certified Solutions Architect - Associate, 2022

@@ -1,0 +1,27 @@
+VIKRAM SINGH
+Chandigarh, India | vikram.singh@example.com
+
+PROFILE
+QA engineer with 2 years of experience in test automation for web applications.
+I care about flaky tests being fixed rather than retried.
+
+WORK EXPERIENCE
+QA Automation Engineer, Sable Testing Services (Sep 2025 - Present)
+- Maintain a Selenium suite of 900+ browser tests running on every pull request.
+- Write API test collections in Postman and automate them with Python and pytest.
+- Triage failures and file defects in Jira with reproduction steps.
+- Configured Jenkins jobs so the nightly regression suite reports before standup.
+
+Trainee Test Engineer, Sable Testing Services (Sep 2024 - Aug 2025)
+- Executed manual test cases and wrote SQL queries to verify data after each release.
+
+SKILLS
+Selenium, pytest, Python, Java, JUnit, Postman, Jenkins, CI/CD, Jira, SQL,
+Manual Testing, Regression Testing, Test Automation, Git, Linux, Agile
+
+EDUCATION
+B.Sc in Information Technology
+Shivalik Degree College, 2019 - 2022
+
+CERTIFICATIONS
+- ISTQB Foundation Level, 2023

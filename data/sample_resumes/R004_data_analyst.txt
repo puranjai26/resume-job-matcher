@@ -1,0 +1,30 @@
+KARAN VERMA
+Jaipur, India | karan.verma@example.com
+
+PROFILE
+Data analyst with 2 years of experience turning operational data into dashboards and
+decisions for retail and logistics teams.
+
+WORK EXPERIENCE
+Data Analyst, Meridian Retail Group (Sep 2025 - Present)
+- Built 12 Power BI dashboards tracking store-level revenue, stock cover and returns.
+- Wrote complex SQL queries across a Microsoft SQL Server warehouse to support monthly
+  business reviews.
+- Automated a recurring Excel report with Python, saving roughly 10 hours per month.
+- Ran an A/B testing analysis on a loyalty campaign and reported the lift with
+  confidence intervals.
+
+Junior Analyst, Trailhead Logistics (Sep 2024 - Aug 2025)
+- Cleaned and validated shipment data; documented data quality rules.
+- Produced weekly KPI reporting for the operations team using Excel and Tableau.
+
+SKILLS
+SQL, Excel, Power BI, Tableau, Python, pandas, Statistics, Data Cleaning,
+Data Visualization, KPI Reporting, Hypothesis Testing, A/B Testing, Data Storytelling
+
+EDUCATION
+B.Com with specialisation in Business Analytics
+Rajputana Commerce College, 2019 - 2022
+
+CERTIFICATIONS
+- Power BI Data Analyst Associate, 2024

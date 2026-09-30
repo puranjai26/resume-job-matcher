@@ -1,0 +1,29 @@
+Job Title: Data Analyst
+
+About the Role
+Our operations team needs an analyst who can answer business questions with data and
+turn recurring questions into self-serve dashboards.
+
+Key Responsibilities
+- Build and maintain dashboards for operations and finance stakeholders.
+- Write SQL queries against the reporting warehouse.
+- Deliver monthly KPI reporting and investigate anomalies.
+- Document metric definitions so numbers stay consistent across teams.
+
+Required Skills
+- Advanced SQL
+- Strong Excel skills
+- Experience with Power BI or Tableau
+- Working knowledge of Statistics
+- Clear Communication with non-technical stakeholders
+
+Good to Have
+- Python for automation is desirable
+- Exposure to A/B Testing
+- Familiarity with Data Cleaning best practices
+
+Experience
+1+ years of experience in an analytics role.
+
+Education
+Bachelor's degree in any discipline; Business, Statistics or Computer Science preferred.

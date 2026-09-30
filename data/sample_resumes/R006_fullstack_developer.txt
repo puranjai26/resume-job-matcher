@@ -1,0 +1,25 @@
+MEERA NAIR
+Kochi, India | meera.nair@example.com
+
+SUMMARY
+Full-stack developer with 2 years of experience shipping small product features end to
+end: interface, service layer and database. Happiest when a feature ships in one week.
+
+EXPERIENCE
+Full Stack Developer, Kaleido Apps (Mar 2025 - Present)
+- Built the booking flow of a scheduling product: React front end, Flask service layer,
+  PostgreSQL storage.
+- Designed REST API endpoints consumed by both the web app and a partner integration.
+- Containerised the development environment with Docker so new joiners set up in an hour.
+- Wrote integration tests and reviewed teammates' pull requests.
+
+Intern, Kaleido Apps (Sep 2024 - Feb 2025)
+- Fixed interface bugs in a React dashboard and wrote SQL reports for the support team.
+
+SKILLS
+JavaScript, React, HTML, CSS, Node.js, Express.js, Python, Flask, SQL, PostgreSQL,
+REST API, Docker, Git, GitHub, Responsive Design, Agile, Integration Testing
+
+EDUCATION
+B.Tech in Information Technology
+Backwater Institute of Technology, 2019 - 2023

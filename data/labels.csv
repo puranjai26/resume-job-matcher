@@ -1,0 +1,36 @@
+resume_id,job_id,label,relevance,notes
+R001,J001,Strong Match,2,Data science profile matches a junior data science role directly
+R001,J002,Weak Match,0,Shares Python and SQL only; no backend framework or API experience
+R001,J003,Weak Match,0,No frontend skills at all
+R001,J004,Moderate Match,1,Has SQL Python statistics and visualisation but no BI tooling
+R001,J005,Weak Match,0,No cloud or infrastructure experience
+R002,J001,Weak Match,0,Python and SQL present but no machine learning background
+R002,J002,Strong Match,2,Backend profile matches the backend role on nearly every requirement
+R002,J003,Weak Match,0,JavaScript exposure only; no React or frontend depth
+R002,J004,Weak Match,0,SQL present but no analytics or BI work
+R002,J005,Moderate Match,1,Has AWS Docker Linux and CI tooling but no Kubernetes or Terraform
+R003,J001,Weak Match,0,No data or machine learning skills
+R003,J002,Weak Match,0,No Python or backend framework experience
+R003,J003,Strong Match,2,Frontend profile matches the frontend role directly
+R003,J004,Weak Match,0,No SQL or analytics skills
+R003,J005,Weak Match,0,No infrastructure or cloud skills
+R004,J001,Moderate Match,1,Python SQL pandas and statistics present but no modelling experience
+R004,J002,Weak Match,0,SQL only; no backend development experience
+R004,J003,Weak Match,0,No frontend skills
+R004,J004,Strong Match,2,Analyst profile matches the analyst role on every required skill
+R004,J005,Weak Match,0,No cloud or DevOps skills
+R005,J001,Weak Match,0,Python scripting only; no data science background
+R005,J002,Weak Match,0,Python and Git only; no web framework or API work
+R005,J003,Weak Match,0,No frontend skills
+R005,J004,Weak Match,0,No analytics or BI skills
+R005,J005,Strong Match,2,DevOps profile matches the DevOps role on every required skill
+R006,J001,Weak Match,0,Python and SQL present but no machine learning or statistics work
+R006,J002,Strong Match,2,Covers Python Flask REST API SQL PostgreSQL and Git as required
+R006,J003,Strong Match,2,Covers JavaScript React HTML CSS and responsive work as required
+R006,J004,Weak Match,0,SQL only; no BI or analytics experience
+R006,J005,Weak Match,0,Docker and Git only; no cloud Kubernetes or pipeline ownership
+R007,J001,Weak Match,0,Python and SQL present but the work is testing not data science
+R007,J002,Moderate Match,1,Python pytest SQL and API testing overlap but no service development
+R007,J003,Weak Match,0,No frontend development experience
+R007,J004,Weak Match,0,SQL used for verification only; no analytics or BI work
+R007,J005,Moderate Match,1,Jenkins CI/CD and Linux overlap but no cloud or Kubernetes ownership

@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+
+# Testing and tooling
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Models and caches downloaded at runtime
+models/*
+!models/.gitkeep
+.cache/
+*.pt
+*.bin
+
+# Generated reports (regenerate with: python -m src.evaluation)
+reports/*
+!reports/.gitkeep
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Never commit real resumes
+data/uploads/
+*.local.*
